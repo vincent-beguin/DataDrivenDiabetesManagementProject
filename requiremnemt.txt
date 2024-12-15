@@ -8,3 +8,4 @@ lightgbm==3.3.5
 catboost==1.1.0
 torch==2.0.1
 imblearn==0.0
+imbalanced-learn==0.12.4
