@@ -1,6 +1,9 @@
 # DataDrivenDiabetesManagementProject
 Semester Project for the course Data Driven Diabetes Management. Group of Amir Meymandinezhad, Hamidreza Madi and Vincent Béguin. Project number 8
 
+# Introduction
+This project aims to evaluate different Machine learning methodologies to predict Type II diabetes from normal routine health data among Pima Indian women over 21 who've already had a pregnancy. The Pima Indians Diabetes Database (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) was used as training dataset
+
 # Results
 | Model                      | Processing                                              | AUC  | Accuracy | F1-Score |
 |----------------------------|---------------------------------------------------------|------|----------|----------|
